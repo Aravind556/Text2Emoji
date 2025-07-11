@@ -1,0 +1,27 @@
+{
+  "candidates" : [ {
+    "content" : {
+      "parts" : [ {
+        "text" : "WE ❤️ TO \uD83D\uDCD6 and take \uD83D\uDCA9 together\n"
+      } ],
+      "role" : "model"
+    },
+    "finishReason" : "STOP",
+    "avgLogprobs" : -0.19214101271195846
+  } ],
+  "usageMetadata" : {
+    "promptTokenCount" : 47,
+    "candidatesTokenCount" : 11,
+    "totalTokenCount" : 58,
+    "promptTokensDetails" : [ {
+      "modality" : "TEXT",
+      "tokenCount" : 47
+    } ],
+    "candidatesTokensDetails" : [ {
+      "modality" : "TEXT",
+      "tokenCount" : 11
+    } ]
+  },
+  "modelVersion" : "gemini-2.0-flash",
+  "responseId" : "C4lxaP7WLeSf7dcP9oTwiAE"
+}
